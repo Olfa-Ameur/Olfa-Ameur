@@ -1,17 +1,35 @@
-<h1 align="center">Hi 👋, I'm Olfa Ameur</h1>
-<h3 align="center">Embedded Systems & IOT Engineer</h3>
+# Hi, I'm Olfa Ameur 👋
 
-- 🤝 Open to collaborate on **IoT Prototyping**
+## Embedded Systems & IOT  Engineer
+ 
+- 🤝 Open to collaborate on **IoT Prototyping**  
+- 💬 Ask me about **C/C++, Microcontrollers, Python,IoT Protocols**  
+- 📫 Reach me at: [olfa.ameur@etudiant-fst.utm.tn](mailto:olfa.ameur@etudiant-fst.utm.tn)  
+   
 
-- 💬 Ask me about **C/C++, Microcontrollers, Python,IoT Protocols**
+---
 
-- 📫 How to reach me **olfa.ameur@etudiant-fst.utm.tn**
+### 🛠️ **Languages & Tools**  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/olfa-ameur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/olfa-ameur/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://github.com/olfa-ameur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://github.com/olfa-ameur" height="30" width="40" /></a>
-</p>
+#### **Microcontrollers**  
+<img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white" title="STM32" /> <img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white" title="ESP32" />  
+<img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" title="Arduino" /> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white" title="RPi" />  
+<img src="https://img.shields.io/badge/ATMEL_ARM-003366?logo=arm&logoColor=white" title="ATMEL ARM" />  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+#### **Programming**  
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" title="C" /> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" title="C++" />  
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" title="Python" />   
+ 
+
+#### **Tools & Protocols**  
+<img src="https://img.shields.io/badge/STM32CubeIDE-03234B?logo=stmicroelectronics&logoColor=white" title="STM32CubeIDE" /><img src="https://img.shields.io/badge/Proteus-00A4E4?logo=proteus&logoColor=white" title="Proteus" />  
+<img src="https://img.shields.io/badge/STM32CubeMX-03234B?logo=stmicroelectronics&logoColor=white" title="STM32CubeMX" />  
+<img src="https://img.shields.io/badge/I2C-000000?logo=i2c&logoColor=white" title="I2C" /> <img src="https://img.shields.io/badge/UART-008000?logo=uart&logoColor=white" title="UART" />  
+<img src="https://img.shields.io/badge/SPI-000000?logo=i2c&logoColor=white" title="SPI" />  <img src="https://img.shields.io/badge/BLE-008000?logo=uart&logoColor=white" title="BLE" /> 
+  
+
+
+
+### 📫 **Let's Connect**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/olfa-ameur/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/OlfaAmeur)  
