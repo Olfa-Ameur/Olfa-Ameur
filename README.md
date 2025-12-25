@@ -32,4 +32,4 @@
 
 ### 📫 **Let's Connect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/olfa-ameur/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/OlfaAmeur)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/Olfa-Ameur)  
